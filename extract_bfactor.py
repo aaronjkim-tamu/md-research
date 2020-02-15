@@ -2,7 +2,7 @@
 This script reads a .pdb file and returns the B-Factor of alpha carbons.
 
 Name:
-    parse_engine.py
+    extract_bfactor.py
 
 Input:
     protein_code - set this to the protein code filename
