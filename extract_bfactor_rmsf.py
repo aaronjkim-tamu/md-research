@@ -1,7 +1,7 @@
 '''
 This script reads a .pdb file to extract the B-factor and a CHARMM output file 
 to extract the rmsf of the alpha carbons.
-Run the script in the same folder as the .pdb and the corr_dyna.out files.
+Run the script in the same folder as the .pdb and the coor_dyna.out files.
 
 Name:
     extract_bfactor_rmsf.py
